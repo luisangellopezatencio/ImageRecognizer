@@ -1,0 +1,36 @@
+# Image Recognition App using FastAPI and PyTorch: TODO
+
+[X] Create a virtual environment
+[X] Create FastAPI App
+    - Install fast API
+    - Install Uvicorn
+    - Install Pytest
+    - Install Jinja2
+    - Install python-multipart
+    - Install requests
+    - Install httpx
+    - Create a main file with some routes
+    - Create a main test file to test the home page route
+[X] Pytorch Setup
+    - Install torch & torchvision (use CPU version for small size)
+[X] Prediction 
+    - Create a predict post route -main.py
+    - Create a file utils.py
+    - Test predict route
+    - Create some helper function
+    - Put some test images inside the static folder
+    - Create a test to upload an image in predict route
+    - Predict
+[] Create a home page for prediction
+    - Create an index.html file inside the templates directory
+    - Setup template and static directory in the main app
+    - Initial HTML for home page
+    - Use Tailwind CSS cdn link for css
+    - Google Fonts
+    - Create a form to predict
+    - update homepage route for prediction
+    - Update UI of the page
+    - Add Some javascript to autoload the image
+    - Add logo and favicon
+    - Add meta tags
+    - Add response image for preview as base64 data
