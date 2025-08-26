@@ -1,3 +1,5 @@
 __pycache__
 .pytest_cache
-deploy
+deploy# pixi environments
+.pixi/*
+!.pixi/config.toml
