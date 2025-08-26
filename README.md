@@ -20,7 +20,7 @@ This project is a web application built with **FastAPI** that uses a pre-trained
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/luisangellopezatencio/ImageRecognizer.git
     cd ImageRecognizer
     ```
 
